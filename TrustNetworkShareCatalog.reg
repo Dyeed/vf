@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\WEF\TrustedCatalogs\{3329dbaa-bbae-426c-adc0-b6515da43790}]
+"Id"="{3329dbaa-bbae-426c-adc0-b6515da43790}"
+"Url"="\\\\PPK\\share2"
+"Flags"=dword:00000001
